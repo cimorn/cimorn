@@ -10,6 +10,7 @@
 📫 Contact: <a href="mailto:cimorns@gmail.com">cimorns@gmail.com</a>
   </p>
 
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cimorn&bg_color=1a1b26&color=38b2ac&line=38b2ac&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
