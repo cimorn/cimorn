@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&width=500&lines=Hi,+I'm+Cimorn!+👋;Exploring+AI+%26+Reinforcement+Learning;Coding+in+Any+Language+Required." alt="Typing SVG" />
 </a>
 
+<br/>
+
 <p>
 🌱 <b>I’m currently diving deep into <b> Deep Learning</b>.<br/>
        <br/>
