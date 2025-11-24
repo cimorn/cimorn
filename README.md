@@ -1,13 +1,14 @@
-<div align="center">
-  <h3>👨‍💻 About Me</h3>
-  <p>
-     🌱 I’m currently diving deep into <b> Deep Learning <br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&width=500&lines=Hi,+I'm+Cimorn!+👋;Exploring+AI+%26+Reinforcement+Learning;Coding+in+Any+Language+Required." alt="Typing SVG" />
+</a>
+
+<p>
+🌱 <b>I’m currently diving deep into <b> Deep Learning</b>.<br/>
        <br/>
-     🔭 I explore and write <b>Any Programming Language</b> needed to solve the problem.<br/>
+🔭 I explore and write <b>Any Programming Language</b> needed to solve the problem</b>.<br/>
        <br/>
-     📫 Reach me at: <b>cimorns@gmail.com</b>
+📫 Contact: <a href="mailto:cimorns@gmail.com">cimorns@gmail.com</a>
   </p>
-</div>
 
 
 <div align="center">
