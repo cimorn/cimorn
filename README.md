@@ -17,22 +17,22 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=cimorn用户名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cimorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn用户名&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cimorn用户名&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cimorn&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cimorn用户名&bg_color=1a1b26&color=38b2ac&line=38b2ac&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cimorn&bg_color=1a1b26&color=38b2ac&line=38b2ac&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 <br/>
