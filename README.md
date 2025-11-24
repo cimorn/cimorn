@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-     🌱 I’m currently diving deep into <b>Artificial Intelligence & Reinforcement Learning (RL)<br/>
+     🌱 I’m currently diving deep into <b> Deep Learning <br/>
        <br/>
      🔭 I explore and write <b>Any Programming Language</b> needed to solve the problem.<br/>
        <br/>
