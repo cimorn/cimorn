@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=cimorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cimorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="200" alt="languages" />
 
 </div>
 
