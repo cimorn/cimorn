@@ -32,10 +32,10 @@
   <table style="border: none;">
     <tr>
       <td style="border: none; padding-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=cimorn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
       </td>
       <td style="border: none; padding-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="languages" />
       </td>
     </tr>
   </table>
