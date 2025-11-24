@@ -1,8 +1,10 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-     🌱 I’m currently diving deep into <b>Artificial Intelligence & Reinforcement Learning (RL)</b><br/>
+     🌱 I’m currently diving deep into <b>Artificial Intelligence & Reinforcement Learning (RL)<br/>
+       <br/>
      🔭 I explore and write <b>Any Programming Language</b> needed to solve the problem.<br/>
+       <br/>
      📫 Reach me at: <b>cimorns@gmail.com</b>
   </p>
 </div>
