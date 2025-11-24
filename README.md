@@ -9,7 +9,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=cimorn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" alt="stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="200" alt="languages" />
 
@@ -17,25 +16,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cimorn&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cimorn&bg_color=1a1b26&color=38b2ac&line=38b2ac&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🛠️ Arsenal</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,rust,linux,docker,git,pytorch,tensorflow,vscode,md&theme=dark" />
-    </a>
-  </p>
 </div>
 
 <br/>
